@@ -15,18 +15,22 @@
 <br> 
 
 ## Step 2: Open the new folder in VS code
+<br> 
+
+## Step 3: Open a new terminal in VS code
 
 <br>
 
-## Step 3: Run Docker Compose in VS Code's terminal 
+## Step 4: Run Docker Compose in the terminal 
 
-#### (be sure you're in the same folder - Docker Compose is basically a shortcut to build everything.) 
+#### Be sure you're in the root folder to run Compose
+#### Docker Compose is basically a shortcut to build everything.) 
 
 #### at prompt type: docker-compose up -d 
   
 <br>
 
-## Step 4: View app in browser
+## Step 5: View app in browser
 
 - Click on the link (http://localhost:8501) in the terminal to open the app
 
@@ -73,7 +77,6 @@
 ### [Deployment issues](https://docs.streamlit.io/knowledge-base/deploy) 
 
 ### [App Gallery](https://streamlit.io/gallery) 
-
 
 
 
