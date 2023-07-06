@@ -3,6 +3,7 @@
 ## Step 1: Clone repo (in terminal)
 ####  at prompt type: git clone https://github.com/rus19023/streamlit_training_online_sp23.git    
 
+<br>
 
 ### Explanation of files:
 
@@ -13,7 +14,7 @@
 
 <br> 
 
-## Step 2: Open VS code
+## Step 2: Open the new folder in VS code
 
 <br>
 
@@ -47,7 +48,7 @@
 
 <br>
 
-### How to build a Streamlit app:
+### More info on how to build a Streamlit app:
 
 <br>
 
